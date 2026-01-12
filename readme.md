@@ -4,7 +4,7 @@ This repository contains my personal **portfolio website**, created to showcase 
 The website is deployed using **GitHub Pages**.
 
 ## 🔗 Live Demo
-👉 [View Portfolio]()
+👉 [View Portfolio](https://nitinbhhardwaj.github.io/Nitex/)
 
 ## 📌 About the Project
 This portfolio website is designed to present:
@@ -18,4 +18,5 @@ It is fully responsive and built with a clean and simple user interface.
 ## 🛠️ Technologies Used
 - HTML5
 - CSS3
+
 
