@@ -179,3 +179,32 @@ body {
     line-height: 1.6;
     margin-bottom: 30px;
 }
+.intro,
+.profile-container,
+.sidediv,
+.service-card,
+.help-text{
+    opacity:0;
+    transform:translateY(40px);
+    transition:0.7s ease;
+}
+
+.show{
+    opacity:1;
+    transform:translateY(0);
+}
+
+.top-btn{
+    position:fixed;
+    right:25px;
+    bottom:25px;
+    width:45px;
+    height:45px;
+    border:none;
+    border-radius:50%;
+    background:#f36f21;
+    color:white;
+    font-size:20px;
+    cursor:pointer;
+    display:none;
+}
